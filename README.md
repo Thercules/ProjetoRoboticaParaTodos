@@ -1,4 +1,4 @@
-<h2><b>ProjetoRoboticaParaTodos</b><h2>
+<h2><b>ProjetoRoboticaParaTodos</b></h2>
 <p> 2021, Thiago Hercules. All rights reserved. <br>
 
 • Link to application deploy in vercel: <br>
