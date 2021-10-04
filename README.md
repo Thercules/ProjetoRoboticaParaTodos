@@ -56,30 +56,6 @@
 </br>
 ![Github language count](https://img.shields.io/github/stars/Thercules?style=social)
 
-<h3><em><b>📈 Projects: 📊</b></em></h3> 
-
-#### - [Portfolio 📲](https://github.com/Thercules/PortfolioTdesigner) 
-<a href="#"><img src="https://img.shields.io/badge/JavaScript-E94057?style=for-the-badge&logo=Javascript&logoColor=white"/>
-</a>
-<a href="#"><img src="https://img.shields.io/badge/HTML5-E94057?style=for-the-badge&logo=Html5&logoColor=white"/>
-</a>
-<a href="#"><img src="https://img.shields.io/badge/CSS3-E94057?style=for-the-badge&logo=Css3&logoColor=white"/>
-</a>
-![Github language count](https://img.shields.io/github/languages/count/Thercules/PortfolioTdesigner)
-</br>
-<p> ↳ This portfolio was created in order to promote my page as a freelance designer. On this site, contents such as projects and even super elaborated arts were attractively designated for user access. </p>
-
-#### - [Project icarus](https://github.com/Thercules/Project-Icarus)
-<a href="#"><img src="https://img.shields.io/badge/JavaScript-E94057?style=for-the-badge&logo=Javascript&logoColor=white"/>
-</a>
-<a href="#"><img src="https://img.shields.io/badge/HTML5-E94057?style=for-the-badge&logo=Html5&logoColor=white"/>
-</a>
-<a href="#"><img src="https://img.shields.io/badge/CSS3-E94057?style=for-the-badge&logo=Css3&logoColor=white"/>
-</a>
-![Github language count](https://img.shields.io/github/languages/count/Thercules/PortfolioTdesigner)
-</br>
-![Github language count](https://img.shields.io/github/languages/count/Thercules/Project-Icarus)
-<p> ↳ The icarus project is a personal achievement. Since I was little I always wanted to write great comic books, just like the ones we see in the drawings, so, I present to you the icarus project, with deploying the html on a hosting site. </p>
 <h3><em><b> 🔹 I programming in: 🎓</b></em></h3> 
 <a href="#"><img src="https://img.shields.io/badge/Java-E94057?style=for-the-badge&logo=Java&logoColor=white"/>
 </a>
