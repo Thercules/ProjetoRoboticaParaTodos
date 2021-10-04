@@ -1,35 +1,34 @@
 $(document).ready(function(){
     $(window).scroll(function(){
-        // sticky navbar on scroll script
+        // barra de navegação fixa no script de rolagem
         if(this.scrollY > 20){
             $('.navbar').addClass("sticky");
         }else{
             $('.navbar').removeClass("sticky");
         }
         
-        // scroll-up button show/hide script
+        // botão de rolagem para cima mostrar / ocultar script
         if(this.scrollY > 500){
             $('.scroll-up-btn').addClass("show");
         }else{
             $('.scroll-up-btn').removeClass("show");
         }
     });
-    // slide-up script
     $('.scroll-up-btn').click(function(){
         $('html').animate({scrollTop: 0});
-        // removing smooth scroll on slide-up button click
+        // removendo a rolagem suave no botão deslizante
         $('html').css("scrollBehavior", "auto");
     });
     $('.navbar .menu li a').click(function(){
-        // applying again smooth scroll on menu items click
+        // aplicando novamente a rolagem suave nos itens do menu
         $('html').css("scrollBehavior", "smooth");
     });
-    // toggle menu/navbar script
+    // toggle menu/script da navbar
     $('.menu-btn').click(function(){
         $('.navbar .menu').toggleClass("active");
         $('.menu-btn i').toggleClass("active");
     });
-    // typing text animation script
+    // animação de texto escrevendo
     var typed = new Typed(".typing", {
         strings: ["Arduíno", "Programação", "Automação", "Criação", "Desenvolver"],
         typeSpeed: 100,
@@ -42,7 +41,7 @@ $(document).ready(function(){
         backSpeed: 60,
         loop: true
     });
-    // owl carousel script
+    // script do carrossel
     $('.carousel').owlCarousel({
         margin: 20,
         loop: true,
